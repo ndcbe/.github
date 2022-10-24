@@ -1,6 +1,6 @@
 # University of Notre Dame Chemical and Biomolecular Engineering
 
-This is a collection of links and repositories of teaching materials developed that have been developed and used in the [Department of Chemical and Biomolecular Engineering at the University of Notre Dame](https://cbe.nd.edu/).
+This is a collection of repositories of open-source computational notebooks that have been developed and used in the [Department of Chemical and Biomolecular Engineering at the University of Notre Dame](https://cbe.nd.edu/).
 
 * [CBE 20255 Introduction to Chemical Engineering](http://jckantor.github.io/CBE20255/)
 * [CBE 20258/40258/60258 [Advanced] Data and Computing for Engineers](https://ndcbe.github.io/data-and-computing/intro.html)
@@ -10,3 +10,5 @@ This is a collection of links and repositories of teaching materials developed t
 * [CBE 60499 Nonlinear and Stochastic Optimization](https://ndcbe.github.io/CBE60499/)
 
 * [ND Pyomo Cookbook](https://jckantor.github.io/ND-Pyomo-Cookbook/README.html)
+
+Comments, feedback, and issues are welcome! 
