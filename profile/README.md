@@ -12,4 +12,3 @@ This is a collection of repositories of open-source computational notebooks that
 
 * [ND Pyomo Cookbook](https://jckantor.github.io/ND-Pyomo-Cookbook/README.html)
 
-Comments, feedback, and issues are welcome! 
