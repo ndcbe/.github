@@ -7,7 +7,8 @@ This is a collection of repositories of open-source computational notebooks that
 * [CBE 30338 Chemical Process Control](https://jckantor.github.io/cbe30338-book/Readme.html)
 * [CBE 31358 Chemical Engineering Lab I](https://jckantor.github.io/cbe31358-book/intro.html) (Partial Coverage)
 * [CBE 40455 Process Operations](http://jckantor.github.io/CBE40455/)
-* [CBE 60499 Nonlinear and Stochastic Optimization](https://ndcbe.github.io/CBE60499/)
+* [CBE 60499 Nonlinear and Stochastic Optimization](https://ndcbe.github.io/CBE60499/) (retired)
+* [CBE 60499 Nonlinear and Stochastic Optimization](https://ndcbe.github.io/optimization/) (active)
 * [CBE 61622 Laboratory Measurement and Instrumentation](https://jckantor.github.io/cbe61622/)
 * [CBE 67701 Uncertainty Quantification](https://ndcbe.github.io/cbe67701-uncertainty-quantification/)
 
